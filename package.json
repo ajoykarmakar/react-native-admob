@@ -1,25 +1,58 @@
 {
-  "name": "react-native-admob",
-  "version": "2.0.0-beta.6",
-  "description": "A react-native component for Google AdMob banners and interstitials",
-  "author": "Simon Bugert <simon.bugert@gmail.com>",
-  "main": "index.js",
-  "license": "BSD-2-Clause",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:sbugert/react-native-admob.git"
+  "_args": [
+    [
+      "react-native-admob@2.0.0-beta.6",
+      "H:\\Work\\BengaliStories\\BengaliStories_App"
+    ]
+  ],
+  "_from": "react-native-admob@2.0.0-beta.6",
+  "_id": "react-native-admob@2.0.0-beta.6",
+  "_inBundle": false,
+  "_integrity": "sha512-Tzk1N5c6so/Dj58q51uqWkd5i/X5a/cgLNYczng78hRGroRxU6Av2lMlwxZK2RFFtFxUhfpg2xNN2bhEqCydDA==",
+  "_location": "/react-native-admob",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-admob@2.0.0-beta.6",
+    "name": "react-native-admob",
+    "escapedName": "react-native-admob",
+    "rawSpec": "2.0.0-beta.6",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0-beta.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-admob/-/react-native-admob-2.0.0-beta.6.tgz",
+  "_spec": "2.0.0-beta.6",
+  "_where": "H:\\Work\\BengaliStories\\BengaliStories_App",
+  "author": {
+    "name": "Simon Bugert",
+    "email": "simon.bugert@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sbugert/react-native-admob/issues"
   },
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.5.10"
   },
+  "description": "A react-native component for Google AdMob banners and interstitials",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "homepage": "https://github.com/sbugert/react-native-admob#readme",
+  "license": "BSD-2-Clause",
+  "main": "index.js",
+  "name": "react-native-admob",
   "peerDependencies": {
     "react-native": ">=0.44.0"
   },
-  "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^4.19.1",
-    "eslint-config-prettier": "^6.3.0",
-    "eslint-plugin-react": "^7.14.3",
-    "prettier": "^1.18.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sbugert/react-native-admob.git"
+  },
+  "version": "2.0.0-beta.6"
 }
